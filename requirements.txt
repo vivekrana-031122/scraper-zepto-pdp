@@ -1,0 +1,5 @@
+scrapy
+pymysql
+mysql-connector-python
+requests
+python-slugify
