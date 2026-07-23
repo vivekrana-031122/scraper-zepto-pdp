@@ -4,6 +4,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Tech: Scrapy](https://img.shields.io/badge/Tech-Scrapy-brightgreen.svg)](#)
 
+> [!NOTE]
+> This scraper is fully functional but not scheduled to run automatically. Run manually with `python zepto_pdp_spider.py`.
+
+
 Scrapy-based spider designed to extract Product Detail Page (PDP) information (prices, ratings, stock availability) from Zepto based on specific locations and pincodes.
 
 ---
